@@ -1,0 +1,14 @@
+# conda env create -f aind-environment-osx.yaml
+# source activate aind
+
+# Install Pygame to visualize programs
+#   brew install sdl sdl_image sdl_mixer sdl_ttf portmidi mercurial
+#   source activate aind
+#   pip install pygame
+#
+#   python -m pygame.tests
+#
+# Jupyter notebooks and Python 3.6
+#   conda create -name nb35 python=3.5 jupyter nb_conda
+#   source activate nb35
+#   jupyter notebook
